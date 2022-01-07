@@ -1,5 +1,18 @@
 ### Hi there 👋
+#### Checkout my Projects 
+ - <a href="https://github.com/CloudGlitch?tab=repositories">All my projects</a>
+##### my main projects 
+ - <a href="https://github.com/CloudGlitch/NewTabSearch">Cloud NewTab Search</a>
+ - <a href="https://github.com/CloudGlitch/converter">Converter</a>
+ - <a href="https://github.com/CloudGlitch/WritePad">WritePad</a>
+ - <a href="https://github.com/CloudGlitch/ToDo">To-Do</a>
 
+🔭 I’m currently working on <a href="https://github.com/CloudGlitch/NewTabSearch/releases/tag/v1.2">Cloud New Tab Search v1.2</a>
+
+#### These are my most used languages
+<a href="https://github.com/CloudGlitch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudGlitch&theme=dark&hide_langs_below=1" />
+</a>
 <!--
 **CloudGlitch/CloudGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
