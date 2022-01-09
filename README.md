@@ -7,7 +7,7 @@
  - <a href="https://github.com/CloudGlitch/WritePad">WritePad</a>
  - <a href="https://github.com/CloudGlitch/ToDo">To-Do</a>
 
-🔭 I’m currently working on <a href="https://github.com/CloudGlitch/NewTabSearch/releases/tag/v1.2">Cloud New Tab Search v1.2</a>
+<!--🔭 I’m currently working on <a href="https://github.com/CloudGlitch">Nothing</a>-->
 
 #### These are my most used languages
 <a href="https://github.com/CloudGlitch">
