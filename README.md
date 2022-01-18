@@ -9,7 +9,6 @@
 
 <!--🔭 I’m currently working on <a href="https://github.com/CloudGlitch">Nothing</a>-->
 
-#### These are my most used languages
 <a href="https://github.com/CloudGlitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CloudGlitch&theme=dark&show_icons=true" />
 </a>
