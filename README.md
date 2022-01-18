@@ -11,7 +11,7 @@
 
 <a href="https://github.com/CloudGlitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CloudGlitch&theme=dark&show_icons=true" />
- 
+ <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudGlitch"/>
 </a>
 <!--
