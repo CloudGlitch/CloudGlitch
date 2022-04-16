@@ -8,6 +8,6 @@
 
 ## Privacy
 1. Any type of personal data is not collected or shared in any services of CloudGlitch.
-2. A small amount of data you enter (like shortcuts in Cloud NewTab and Tasks in Cloud ToDo) are stored in your browsers LocalStorage. We Use LocalStorage for storing your Preferences and Settings.
+2. A small amount of data you enter (Includes shortcut data in Cloud NewTab Search , Tasks in Cloud To-Do and Texts in Cloud Write-Pad) are stored in your browsers LocalStorage. We Use LocalStorage for storing your Preferences and Settings.
 3. The stored LocalStorage is not shared and is in your browser, it is not collected by CloudGlitch for any means.
 4. You can always clear your LocalStorage from your browser settings if needed.
