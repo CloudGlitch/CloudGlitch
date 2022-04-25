@@ -7,7 +7,7 @@
  - <a href="https://github.com/CloudGlitch/WritePad">WritePad</a>
  - <a href="https://github.com/CloudGlitch/ToDo">To-Do</a>
 
-[![CloudGlitch](https://github.com/CloudGlitch)](https://github.com/CloudGlitch)
+
 
 
 
