@@ -1,12 +1,15 @@
 ### The Terms of use and Privacy is affected for all the CloudGlitch Products , Services and Softwares
 
 ## Terms of use
-1. Any reproduction or redistribution of the Softwares to any other server or location is strictly prohibited.
 2. The Softwares are made available for download solely for use by end users.
 3. The Logo and The name of the softwares (which maybe updated from time to time) are the properties of CloudGlitch. 
 4. You are allowed to Truthfully and accurately refer to CloudGlitch and its products and services.
 5. You are not allowed to use assests of CloudGlitch in the name of your Business,Product,Service,App,Domain or as any other indicator.
 6. Our Softwares are free to use and no charges are took to use our softwares.
+7. You shall not sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Site.
+8. You shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site.
+9. You shall not access the Site in order to build a similar or competitive website.
+10.No part of the Site may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means.
 
 ## Privacy
 1. Any type of personal data is not collected or shared in any services of CloudGlitch.
