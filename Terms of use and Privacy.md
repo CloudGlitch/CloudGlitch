@@ -9,7 +9,7 @@
 7. You shall not sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Site.
 8. You shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site.
 9. You shall not access the Site in order to build a similar or competitive website.
-10.No part of the Site may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means.
+10.No part of the Site may be copied, reproduced, distributed, republished in any form or by any means.
 
 ## Privacy
 1. Any type of personal data is not collected or shared in any services of CloudGlitch.
