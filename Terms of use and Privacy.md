@@ -12,7 +12,7 @@
 10. No part of the Site may be copied, reproduced, distributed, republished in any form or by any means.
 
 ## Privacy
-1. Any type of personal data is not collected or shared in any services of CloudGlitch.
-2. A small amount of data you enter (Includes shortcut data in Cloud NewTab Search , Tasks in Cloud To-Do and Texts in Cloud Write-Pad) are stored in your browsers LocalStorage. We Use LocalStorage for storing your Preferences and Settings.
+1. Any type of personal data is not collected or shared in any services of CloudGlitch. Cloud WebNotes is an exception, the data is collected and stored very securely for you to read the data again, CloudGlitch do not sell , read or distribute your data under any circumstances. 
+2. A small amount of data you enter (Includes shortcut data in Cloud NewTab Search , Tasks in Cloud To-Do and Texts in Cloud Write-Pad) are stored in your browsers LocalStorage. We Use LocalStorage for storing your Preferences and Settings. This data is not visible to CloudGlitch.
 3. The stored LocalStorage is not shared and is in your browser, it is not collected by CloudGlitch for any means.
 4. You can always clear your LocalStorage from your browser settings if needed.
