@@ -4,7 +4,7 @@
 2. The Softwares are made available for download solely for use by end users.
 3. The Logo and The name of the softwares (which maybe updated from time to time) are the properties of CloudGlitch. 
 4. You are allowed to Truthfully and accurately refer to CloudGlitch and its products and services.
-5. You are not allowed to use assests of CloudGlitch in the name of your Business,Product,Service,App,Domain or as any other indicator.
+5. You are not allowed to use assests of CloudGlitch for illegal purposes.
 6. Our Softwares are free to use and no charges are took to use our softwares.
 7. You shall not sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Site.
 8. You shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site.
