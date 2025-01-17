@@ -10,6 +10,7 @@
 8. You shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site.
 9. You shall not access the Site in order to build a similar or competitive website.
 10. No part of the Site may be copied, reproduced, distributed, republished in any form or by any means.
+11. OpenEnc will have a seperate license
 
 ## Privacy
 1. Any type of personal data is not collected or shared in any services of CloudGlitch. Cloud WebNotes is an exception, the data is collected and stored very securely for you to read the data again, CloudGlitch do not sell , read or distribute your data under any circumstances. 
